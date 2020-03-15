@@ -1,5 +1,5 @@
 button1.onclick = function () {
-		text.style.display = "none";
+	text.style.display = "none";
 }
 
 button2.onclick = function () {
