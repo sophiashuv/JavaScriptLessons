@@ -1,0 +1,17 @@
+#menu {
+  width: 200px;
+}
+
+a {
+  background-color: #3CB371;
+  color: white;
+  display: block;
+  padding: 12px;
+  border-style: solid;
+  border-color: #F5DEB3;
+}
+
+a.active {
+  background-color: #FAFAD2;
+  color: black;
+}
